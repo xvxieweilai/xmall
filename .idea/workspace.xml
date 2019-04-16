@@ -1,177 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb5eead7-2df9-4c99-9f83-5be755abf1bb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/changelists.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/dashboard.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/css/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/fonts/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/fonts/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/fonts/Roboto-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/fonts/Roboto-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/fonts/Roboto-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/calendar-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-addlink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-alert.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-changelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-clock.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-deletelink.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-no.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-unknown-alt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-unknown.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/icon-yes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/inline-delete.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/selector-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/sorting-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/tooltag-add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/img/tooltag-arrowright.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/SelectBox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/SelectFilter2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/actions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/actions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/change_form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/collapse.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/inlines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/inlines.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/jquery.init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/popup_response.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/prepopulate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/prepopulate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/prepopulate_init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/timeparse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/urlify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/css/jquery.pagination.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/detail/9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/QQ-weixin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/adv01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/adv02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/banner01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/banner02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/banner03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/bar_code.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/cat.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/clock.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/clock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/find-password.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods005.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods006.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods007.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods/goods009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/goods_450.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/icons02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/interval_line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/left_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/login_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/logo02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/missing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/pay_icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/pic_code.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/register_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/selected.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/shine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/shop_cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/slide01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/slide02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/slide03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/slide04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/stars.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/success.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/images/time_count_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/axios-0.18.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/cart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/goods_judge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/host.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/jquery-1.12.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/jquery.pagination.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/login.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/oauth_callback.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/order_success.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/place_order.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/slide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/user_center_info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/user_center_order.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/user_center_pass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/user_center_site.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/static/js/vue-2.5.16.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/goods_judge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/oauth_callback.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/order_success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/pay_success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/place_order.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/search/indexes/goods/sku_text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/search/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/user_center_info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/user_center_order.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/user_center_pass.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_mall/templates/user_center_site.html" beforeDir="false" />
-    </list>
+    <list default="true" id="fb5eead7-2df9-4c99-9f83-5be755abf1bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/x_mall/apps/users/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            <state relative-caret-position="200">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -282,53 +112,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="x_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="settings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="x_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="x_mall" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555401105641</updated>
-      <workItem from="1555401109906" duration="11641000" />
+      <workItem from="1555401109906" duration="12068000" />
     </task>
     <task id="LOCAL-00001" summary="'初始项目'">
       <created>1555404319099</created>
@@ -413,11 +197,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555411721956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="删除静态页面">
+      <created>1555415929506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555415929506</updated>
+    </task>
+    <task id="LOCAL-00005" summary="删除静态页面">
+      <created>1555416076639</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555416076639</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11641000" />
+    <option name="totallyTimeSpent" value="12068000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -430,7 +228,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="983" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20137458" />
@@ -438,13 +235,13 @@
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.3298122" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3298122" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5003436" side_tool="true" visible="true" weight="0.3298122" />
+      <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49965635" weight="0.3298122" />
       <window_info anchor="bottom" id="File Transfer" order="5" visible="true" weight="0.32942554" />
-      <window_info anchor="bottom" id="Python Console" order="6" weight="0.32942554" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49965635" weight="0.3286385" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49965635" weight="0.3286385" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -460,10 +257,37 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'初始项目'" />
     <MESSAGE value="用户模型" />
-    <option name="LAST_COMMIT_MESSAGE" value="用户模型" />
+    <MESSAGE value="删除静态页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除静态页面" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/x_mall/wsgi.py">
@@ -617,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/x_mall/apps/users/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="200">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
