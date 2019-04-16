@@ -14,9 +14,6 @@ from jinja2 import Environment
 
 
 def jinja2_environment(**options):
-    """
-    可以使用Django模板引擎中的{% url('') %} {% static('') %}这类的语句
-    """
     env = Environment(**options)
     env.globals.update({
         'static': staticfiles_storage.url,
